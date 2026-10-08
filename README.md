@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Ganesh Kumar Reddy Yenuga
 
-<!--
-**ganeshkumarreddyyenuga-2004/ganeshkumarreddyyenuga-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I am passionate about Cloud Computing, DevOps, Linux Administration, and Infrastructure Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* Linux
+* Git & GitHub
+* Docker
+* Kubernetes
+* Terraform
+* Jenkins
+* GitHub Actions
+* AWS
+* Azure
+* Python (Basics)
+
+### 📂 Projects
+
+* Azure 3-Tier Architecture Deployment
+* Azure Load Balancer Project
+* AWS S3 Static Website Hosting
+* Terraform Infrastructure Provisioning
+* Docker Nginx Container Project
+* GitHub Actions CI/CD Pipeline
+
+### 🎓 Education
+
+B.Tech - Electrical and Electronics Engineering
+
+### 🏆 Certifications
+
+* AWS Academy Cloud Foundations
+* CCNA (Learning)
+
+### 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/ganesh-kumar-reddy-yenuga-335b36310
+* GitHub: github.com/ganeshkumarreddyyenuga-2004
+
+### 🌱 Currently Learning
+
+* Kubernetes
+* Terraform
+* AWS Cloud
+* DevOps Automation
+
+⭐ Open to DevOps, Cloud and Linux Engineer Opportunities.
