@@ -4,7 +4,7 @@
 
 I am passionate about Cloud Computing, DevOps, Linux Administration, and Infrastructure Automation.
 
-### 🛠️ Skills
+# Skills
 
 * Linux
 * Git & GitHub
@@ -17,7 +17,7 @@ I am passionate about Cloud Computing, DevOps, Linux Administration, and Infrast
 * Azure
 * Python (Basics)
 
-### 📂 Projects
+#  Projects
 
 * Azure 3-Tier Architecture Deployment
 * Azure Load Balancer Project
@@ -26,21 +26,21 @@ I am passionate about Cloud Computing, DevOps, Linux Administration, and Infrast
 * Docker Nginx Container Project
 * GitHub Actions CI/CD Pipeline
 
-### 🎓 Education
+# Education
 
-B.Tech - Electrical and Electronics Engineering
+B.Tech - Electrical and Electronics Engineering | Sree Vahini institute of science and Technology | 8.o CGPA
 
-### 🏆 Certifications
+# Certifications
 
 * AWS Academy Cloud Foundations
 * CCNA (Learning)
 
-### 📫 Connect With Me
+#  Connect With Me
 
 * LinkedIn: linkedin.com/in/ganesh-kumar-reddy-yenuga-335b36310
 * GitHub: github.com/ganeshkumarreddyyenuga-2004
 
-### 🌱 Currently Learning
+# Currently Learning
 
 * Kubernetes
 * Terraform
