@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ganesh Kumar Reddy Yenuga
 
-## 🚀 Aspiring DevOps & Cloud Engineer
+# Aspiring DevOps & Cloud Engineer
 
 I am passionate about Cloud Computing, DevOps, Linux Administration, and Infrastructure Automation.
 
@@ -37,8 +37,8 @@ B.Tech - Electrical and Electronics Engineering | Sree Vahini institute of scien
 
 #  Connect With Me
 
-* LinkedIn: linkedin.com/in/ganesh-kumar-reddy-yenuga-335b36310
-* GitHub: github.com/ganeshkumarreddyyenuga-2004
+LinkedIn: linkedin.com/in/ganesh-kumar-reddy-yenuga-335b36310
+GitHub: github.com/ganeshkumarreddyyenuga-2004
 
 # Currently Learning
 
