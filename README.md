@@ -80,13 +80,19 @@ I'm an aspiring DevOps and Cloud Engineer passionate about Linux administration,
 
 **Technologies:** GitHub Actions, Git, YAML, CI/CD
 
-### . Linux Server Administration & Monitoring Automation
+### 6.Linux Server Administration & Monitoring Automation
 
 * Practiced Linux server administration and resource monitoring.
 * Used Bash scripting to generate server health reports.
 * Explored Cron jobs for scheduled monitoring tasks.
 
 **Technologies:** Linux, Bash, Cron, Git, GitHub
+
+### 7. Linux System Administration & Automation Toolkit
+
+* A hands-on Linux project demonstrating system administration, Bash scripting, monitoring, networking, log analysis, backup automation, and Nginx web server deployment.
+
+**Technologies:** Linux, Ubuntu, Bash, Git, GitHub, Nginx, Cron
 
 📌 **Explore my repositories:**
 [GitHub Profile](https://github.com/ganeshkumarreddyyenuga-2004)
